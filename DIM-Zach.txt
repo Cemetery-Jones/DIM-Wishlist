@@ -1,5 +1,5 @@
 title:Zach's Wishlist
-description:Zach's very good list of wislisted weapon rolls
+description:Zach's very good list of wishlisted weapon rolls
 
 //Laser Painter
 //Rolls for maximum PVE DPS
@@ -12,3 +12,6 @@ dimwishlist:item=3221722018&perks=2621346526,2896038713,3988215619
 //Rolls for dealing with adds
 dimwishlist:item=3221722018&perks=1168162263,831391274,515704826
 dimwishlist:item=3221722018&perks=1195158366,831391274,515704826
+
+//TEST
+dimwishlist:item=3221722018&perks=839105230,2680121939,1195158366,3592538738,515704826
