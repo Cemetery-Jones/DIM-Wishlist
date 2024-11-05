@@ -1,5 +1,5 @@
 title:Zach's Wishlist
-description:Zach's very good list of wishlisted weapon rolls. This is a test.
+description:Zach's very good list of wishlisted weapon rolls.
 
 // Arcane Embrace PvE God roll (S-Tier)
 // Fluted Barrel, Tactical Mag, Fourth Time's the Charm, Surrounded (or Precision Instrument), Handling Masterwork
